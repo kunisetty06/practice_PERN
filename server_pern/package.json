@@ -1,0 +1,13 @@
+{
+  "name": "practice_pern",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "PERN stack practice project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
